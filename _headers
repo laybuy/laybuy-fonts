@@ -1,0 +1,15 @@
+/fonts/*.woff
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-woff
+
+/fonts/*.ttf
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-ttf
+
+/fonts/*.eot
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-eot
+
+/fonts/*.svg
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-svg
